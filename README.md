@@ -1,4 +1,4 @@
-<h1>Hi there, I’m Aditya Patel! 👋</h1>
+<h1>Hi there, I’m Aditya Patel! �</h1>
 
 <p>Welcome to my GitHub!<br>
 I’m a passionate developer, data enthusiast, and lifelong learner dedicated to building technology that solves real-world problems and creates inclusive communities.</p>
