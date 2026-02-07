@@ -1,43 +1,58 @@
-<h1>Hi there, I’m Aditya Patel! �</h1>
+<h1>Hi there, I’m Aditya Patel 👋</h1>
 
-<p>Welcome to my GitHub!<br>
-I’m a passionate developer, data enthusiast, and lifelong learner dedicated to building technology that solves real-world problems and creates inclusive communities.</p>
+<p>
+Welcome to my GitHub!<br>
+I’m a cloud-focused technologist with a strong foundation in IT systems, networking, and AWS, passionate about building reliable, scalable, and secure solutions that support real users and real businesses.
+</p>
 
-<h2>👨‍💻 About Me</h2>
+<h2>☁️ About Me</h2>
 <ul>
-  <li>🎓 Studying <strong>Computer Programming</strong> and self-learning <strong>Data Analytics</strong> and <strong>Data Engineering</strong>.</li>
-  <li>📊 Interested in <strong>data-driven decision-making</strong>, <strong>machine learning</strong>, and <strong>full-stack development</strong>.</li>
-  <li>🛠️ Skilled in <strong>React</strong>, <strong>Node.js</strong>, <strong>Next.js</strong>, <strong>MongoDB</strong>, <strong>SQL</strong>, and <strong>PowerApps</strong>.</li>
-  <li>🌎 Built projects that tackle social issues like <strong>social isolation</strong> through blogs, AI chatbots, and community resources.</li>
-  <li>💡 Always striving to <strong>master the fundamentals deeply</strong>, not just "do the work."</li>
-  <li>🛫 Currently based in <strong>Canada</strong>, passionate about learning, growth, and meaningful tech innovation.</li>
+  <li>🎓 Diploma in <strong>Computer Programming</strong> with strong fundamentals in systems, networking, and troubleshooting</li>
+  <li>☁️ Cloud-focused learner with hands-on experience in <strong>AWS infrastructure and deployment</strong></li>
+  <li>🖥️ Strong understanding of <strong>Windows, Linux, networking concepts (DNS, DHCP, TCP/IP, OSI)</strong></li>
+  <li>🔧 Interested in <strong>cloud operations, IT support engineering, and DevOps fundamentals</strong></li>
+  <li>🧠 Believe in <strong>deeply understanding how systems work</strong>, not just using tools</li>
+  <li>📍 Based in <strong>Canada</strong>, actively preparing for roles in Cloud / IT Support / Infrastructure</li>
 </ul>
 
-<h2>🚀 Projects Highlights</h2>
+<h2>🚀 Project Highlights</h2>
 <ul>
-  <li><strong>Inclusive Communities Platform</strong><br>
-  Helping newcomers and isolated individuals find resources, blogs, and AI companions to foster belonging.</li>
-  <li><strong>Blogging Website (React + JSON)</strong><br>
-  A fully structured blog site with DaisyUI styling, JSON-based content management, and smooth navigation.</li>
-  <li><strong>Login Systems & Frontend UI Components</strong><br>
-  Building beautiful, animated signup/login pages with modern frontend frameworks.</li>
-  <li><strong>Data Analytics Mini-Projects</strong><br>
-  Practicing SQL, Python, and exploratory data analysis with a goal toward deeper data science expertise.</li>
+  <li>
+    <strong>AWS Self-Deploying Cloud Portfolio</strong><br>
+    Designed and deployed a secure, production-ready portfolio using <strong>AWS S3, CloudFront, Route 53, ACM, and IAM</strong>. 
+    Focused on high availability, HTTPS, DNS configuration, and secure access control.
+  </li>
+  <li>
+    <strong>Inclusive Communities Platform (Cloud-Backed)</strong><br>
+    A platform aimed at reducing social isolation by combining blogs, resources, and AI-powered assistance. 
+    Emphasis on system reliability, scalability, and service integration.
+  </li>
+  <li>
+    <strong>Companion Bot (AI-Assisted Application)</strong><br>
+    Built an AI-powered assistant focusing on service interaction, error handling, and modular design—reinforcing system-level thinking.
+  </li>
 </ul>
 
-<h2>🛠️ Tech Stack</h2>
+<h2>🛠️ Technical Skills</h2>
 <ul>
-  <li><strong>Languages:</strong> JavaScript, SQL, Python</li>
-  <li><strong>Frontend:</strong> React, Vite, Next.js, Tailwind CSS, DaisyUI, Framer Motion</li>
-  <li><strong>Backend:</strong> Node.js, Express, MongoDB</li>
-  <li><strong>Tools:</strong> PowerApps, Git, VS Code</li>
-  <li><strong>Data:</strong> Pandas, Excel, SQL Databases</li>
+  <li><strong>Operating Systems:</strong> Windows, Linux (Ubuntu)</li>
+  <li><strong>Networking:</strong> TCP/IP, DNS, DHCP, Subnetting, OSI Model</li>
+  <li><strong>Cloud:</strong> AWS (EC2, S3, IAM, CloudFront, Route 53, ACM)</li>
+  <li><strong>Infrastructure & Dev:</strong> Git, GitHub, basic CI/CD concepts</li>
+  <li><strong>Programming:</strong> JavaScript, Python, SQL</li>
+  <li><strong>Tools:</strong> VS Code, Git, PowerApps</li>
 </ul>
 
 <h2>📚 Currently Learning</h2>
 <ul>
-  <li>📈 Advanced Data Analytics and Visualization</li>
-  <li>🌟 Machine Learning Basics</li>
-  <li>🌐 Building Scalable Full-stack Applications</li>
-  <li>🧠 Best Practices in Software Engineering</li>
+  <li>🔐 Enterprise IT & Cloud Support Practices</li>
+  <li>⚙️ Infrastructure as Code (Terraform basics)</li>
+  <li>🧩 Linux system administration</li>
+  <li>🚨 Troubleshooting in high-availability environments</li>
 </ul>
+
+<h2>🎯 Career Focus</h2>
+<p>
+Actively preparing for roles such as <strong>ITS Support Engineer, Cloud Support Associate, Junior Cloud Engineer, or IT Support Engineer</strong>, 
+with a long-term goal of growing into cloud infrastructure and DevOps-focused positions.
+</p>
